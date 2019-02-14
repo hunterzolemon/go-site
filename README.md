@@ -4,8 +4,8 @@
 <code>git clone https://github.com/hunterzolemon/go-site.git</code>
 <h4>Open cmd & type</h4>
 <code>go run httpserver.go</code>
-<h4>Open browser & type http://localhost:80</h4>
-<h4>It will show response & now type http://localhost:80/web/ to open website</h4>
+<h4>Open browser & type <code>http://localhost:80</code></h4>
+<h4>It will show response & now type <code>http://localhost:80/web/</code> to open website</h4>
 <h4>To build</h4>
 <code>go build httpserver.go</code>
 <h4>Now it can be executed</h4>
